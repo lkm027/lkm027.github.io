@@ -25,7 +25,7 @@ header > h1 {
 
 ul {
   list-style-type: none;
-  margin:auto;
+  position: fixed;
 }
 
 li {
@@ -35,4 +35,5 @@ li {
   border-radius: 5px 5px;
   background-color: #cc0323
   position: fixed;
+  margin: auto;
 }
