@@ -17,7 +17,6 @@ header {
 }
 
 #navbar {
-  postion: fixed;
   margin: auto;
 }
 header > h1 {
@@ -25,7 +24,6 @@ header > h1 {
 
 ul {
   list-style-type: none;
-  position: fixed;
 }
 
 li {
@@ -34,6 +32,5 @@ li {
   border: 2px solid #000000;
   border-radius: 5px 5px;
   background-color: #cc0323
-  position: fixed;
   margin: auto;
 }
