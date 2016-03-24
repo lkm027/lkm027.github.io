@@ -19,7 +19,7 @@ header {
 #navbar {
 	/*Add your CSS here!*/
 	position:fixed;
-	margin-top: -10px;
+	margin-top: 10px;
 	left:50%;
 	margin-left:-254px;
 }
