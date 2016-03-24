@@ -1,4 +1,25 @@
-* {
+body {
+  font-family: "Helvetica";
+  font-size: 18px;
+}
+header {
+  color: purple;
+  background-color: #B4F012;
+  text-align: center;
+  height: 40%;
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.across {
+  display: inline;
+}
+
+/** {
   margin: 0;
   padding: 0;
 }
@@ -125,3 +146,4 @@ header h1 {
     margin-right: 0;
   }
 }
+*/
