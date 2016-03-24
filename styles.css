@@ -19,6 +19,7 @@ header {
 
 #navbar {
   border: 1px solid black;
+  position: fixed;
 }
 header > h1 {
   border: 1px solid black;
@@ -30,4 +31,5 @@ ul {
 
 li {
   display: inline;
+  position: fixed;
 }
