@@ -16,7 +16,7 @@ header {
 }
 
 .across {
-  display: inline;
+  display: inline-block;
 }
 
 /** {
