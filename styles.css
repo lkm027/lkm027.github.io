@@ -19,8 +19,11 @@ header {
 
 #navbar {
   border: 1px solid black;
-  postion: fixed;
 }
 header > h1 {
   border: 1px solid black;
+}
+
+ul {
+  list-style-type: none;
 }
