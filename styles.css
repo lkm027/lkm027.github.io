@@ -13,7 +13,6 @@ header {
 
 #navbar {
 	margin: left;
-  position: fixed;
 }
 header > h1 {
   font-size: 26px
@@ -22,12 +21,11 @@ header > h1 {
 ul{
 margin: left;
 list-style-type: none;
-position: fixed;
 }
 
 li {
   display: inline;
   border-radius: 5px;
+  padding: 5px;
   border: 1px solid black;
-  position: fixed;
 }
