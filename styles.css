@@ -16,7 +16,9 @@ header {
   flex-direction: column;
   border: 1px solid black;
 }
-
+div {
+  display: inline-block;
+}
 .across {
   display: inline-block;
   border: 1px solid black;
