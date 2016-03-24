@@ -18,14 +18,17 @@ header {
 }
 div {
   display: inline-block;
+  width: 100%;
 }
 .across1 {
   display: inline-block;
   padding-right: 10%;
+  border: 1px solid black;
 }
 
 .across {
   display: inline-block;
+  border: 1px solid black;
 }
 
 header > h1 {
