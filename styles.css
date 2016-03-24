@@ -13,10 +13,12 @@ header {
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  border: 1px solid black;
 }
 
 .across {
   display: inline-block;
+  border: 1px solid black;
 }
 
 /** {
