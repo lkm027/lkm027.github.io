@@ -17,23 +17,37 @@ header {
 }
 
 #navbar {
-  margin: auto;
-  display: table;
-  border: 2px solid #000000;
+	/*Add your CSS here!*/
+	position:fixed;
+	margin-top: -10px;
+	left:50%;
+	margin-left:-254px;
+}
+
+#header {
+	position: relative;
+	top: -10px;
+	background-color: #3c4543;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
 }
 header > h1 {
   font-size: 26px
 }
 
-ul {
-  list-style-type: none;
-  font-size: 10px
+ul{
+	list-style-type: none;
+	position: fixed;
+	margin: -10px;
 }
 
 li {
-  display: inline;
-  border: 2px solid #000000;
-  border-radius: 5px;
-  background-color: #cc0323
-  margin: auto;
+	/*Add your CSS here!*/
+	display: inline;
+	padding: 5px;
+	border: 2px solid #000000;
+	font-family: Futura, Tahoma, sans-serif;
+	color: #ffffff;
+	border-radius: 5px 5px;
+	background-color: #cc0323
 }
