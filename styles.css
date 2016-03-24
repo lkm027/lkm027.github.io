@@ -12,34 +12,19 @@ header {
 }
 
 #navbar {
-	/*Add your CSS here!*/
 	margin-top: 50px;
-	left:50%;
-	margin-left:-254px;
-}
-
-#header {
-	top: 50px;
-	background-color: #3c4543;
-	border-top-left-radius: 15px;
-	border-top-right-radius: 15px;
+	margin: left;
 }
 header > h1 {
   font-size: 26px
 }
 
 ul{
-	list-style-type: none;
-	margin: -10px;
+margin: left;
 }
 
 li {
-	/*Add your CSS here!*/
-	display: inline;
-	padding: 5px;
-	border: 2px solid #000000;
-	font-family: Futura, Tahoma, sans-serif;
-	color: #ffffff;
-	border-radius: 5px 5px;
-	background-color: #cc0323
+  display: inline;
+  border-radius: 5px;
+  border: 1px solid black;
 }
