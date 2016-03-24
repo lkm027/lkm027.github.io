@@ -21,7 +21,7 @@ header {
   border: 2px solid #000000;
 }
 header > h1 {
-  font-size: 126px
+  font-size: 26px
 }
 
 ul {
@@ -32,7 +32,7 @@ ul {
 li {
   display: inline-block;;
   border: 2px solid #000000;
-  border-radius: 5px 5px;
+  border-radius: 5px;
   background-color: #cc0323
   margin: auto;
 }
