@@ -20,15 +20,17 @@ header {
   margin: auto;
 }
 header > h1 {
+  font-size: 18px
 }
 
 ul {
   list-style-type: none;
+  font-size: 5px
 }
 
 li {
   display: inline;
-  padding: 5px;
+  padding: 10px;
   border: 2px solid #000000;
   border-radius: 5px 5px;
   background-color: #cc0323
