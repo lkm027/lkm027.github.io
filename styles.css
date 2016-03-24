@@ -18,6 +18,7 @@ header {
 
 #navbar {
   margin: auto;
+  display: table;
   border: 2px solid #000000;
 }
 header > h1 {
@@ -30,7 +31,7 @@ ul {
 }
 
 li {
-  display: inline-block;;
+  display: inline;
   border: 2px solid #000000;
   border-radius: 5px;
   background-color: #cc0323
