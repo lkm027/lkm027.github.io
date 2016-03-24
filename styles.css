@@ -16,20 +16,11 @@ header {
   flex-direction: column;
   border: 1px solid black;
 }
-div {
-  display: inline-block;
-}
-.across1 {
-  display: inline-block;
-  padding-right: 10%;
-  border: 1px solid black;
-}
 
-.across {
-  display: inline-block;
+#navbar {
   border: 1px solid black;
+  postion: fixed;
 }
-
 header > h1 {
   border: 1px solid black;
 }
