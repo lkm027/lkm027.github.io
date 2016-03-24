@@ -13,7 +13,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction: row;;
+  flex-direction: row;
   border: 1px solid black;
 }
 div {
