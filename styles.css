@@ -25,7 +25,7 @@ header > h1 {
 
 ul {
   list-style-type: none;
-  postion: fixed
+  margin:auto;
 }
 
 li {
