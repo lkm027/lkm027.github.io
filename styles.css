@@ -19,6 +19,7 @@ header {
 
 #navbar {
   border: 1px solid black;
+  postion: fixed;
 }
 header > h1 {
   border: 1px solid black;
@@ -26,12 +27,14 @@ header > h1 {
 
 ul {
   list-style-type: none;
+  postion: fixed
 }
 
 li {
   display: inline;
-}
-
-div :nth-child(2) {
-  padding-right: 20%;
+  padding: 5px;
+  border: 2px solid #000000;
+  border-radius: 5px 5px;
+  background-color: #cc0323
+  position: fixed;
 }
