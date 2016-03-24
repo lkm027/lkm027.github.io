@@ -19,6 +19,12 @@ header {
 div {
   display: inline-block;
 }
+.across1 {
+  display: inline-block;
+  border: 1px solid black;
+  padding-right: 10%;
+}
+
 .across {
   display: inline-block;
   border: 1px solid black;
