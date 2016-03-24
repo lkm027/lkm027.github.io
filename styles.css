@@ -18,14 +18,15 @@ header {
 
 #navbar {
   margin: auto;
+  border: 2px solid #000000;
 }
 header > h1 {
-  font-size: 18px
+  font-size: 100px
 }
 
 ul {
   list-style-type: none;
-  font-size: 5px
+  font-size: 10px
 }
 
 li {
