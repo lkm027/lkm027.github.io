@@ -17,3 +17,8 @@ body {
   height: 200px;
   border-radius: 5px;
 }
+
+#tech {
+  width: 200px;
+  height: auto;
+}
