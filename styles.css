@@ -31,5 +31,5 @@ body {
   width: 40%%;
   height:auto;
   display: inline;
-  clear:both;
+  float right;
 }
