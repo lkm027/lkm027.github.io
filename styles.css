@@ -22,13 +22,14 @@ body {
 }
 
 #tech {
-  width: 50%;
+  width: 45%;
   height: auto;
   display: inline-block;
 }
 
 #tribe {
-  width: 50%;
+  width: 45%%;
   height:auto;
   display: inline-block;
+  float: right;
 }
