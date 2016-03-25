@@ -24,12 +24,12 @@ body {
 #tech {
   width: 45%;
   height: auto;
-  display: inline-block;
+  display: inline;
 }
 
 #tribe {
   width: 45%%;
   height:auto;
-  display: inline-block;
+  display: inline;
   float: right;
 }
