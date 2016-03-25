@@ -33,3 +33,10 @@ body {
   display: inline;
   float: right;
 }
+
+h2 {
+  position: absolute;
+  top: 200px;
+  left: 0px;
+  width: 100%;
+}
