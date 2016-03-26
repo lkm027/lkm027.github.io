@@ -42,7 +42,7 @@ html,body
 #techword {
   position:absolute;
   margin-left: 46%;
-  margin-top: 20%;
+  margin-top: 23%;
   color: white;
 }
 
@@ -80,7 +80,7 @@ html,body
 
 h2 {
   position: relative;
-  font-size: 32pt;
+  font-size: 2vw;
   width: 100%;
 }
 
