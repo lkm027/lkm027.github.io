@@ -31,6 +31,10 @@ body {
   border: 5px solid #cfb53b;
 }
 
+#techword {
+  position: absolute;
+}
+
 #name {
   margin-left: 5px;
 }
