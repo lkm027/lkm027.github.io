@@ -48,6 +48,8 @@ body {
 
 #myPic {
   float: right;
+  width: auto;
+  height: auto;
 }
 
 h2 {
