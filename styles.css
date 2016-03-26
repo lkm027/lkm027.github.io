@@ -6,12 +6,12 @@ body {
 
 #header {
  background-color: white;
- width: 43.5%;
+ width: 44%;
  height: 200px;
  border-radius: 10px;
  position: fixed;
  display: inline-block;
- border: 5px dashed #cfb53b;
+ border: 5px solid #cfb53b;
 }
 
 #header2 {
