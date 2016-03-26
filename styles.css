@@ -31,7 +31,7 @@ html,body
   position: relative;
 }
 #tech {
-  width: 54%;
+  width: 54vw;
   height: auto;
   display: inline;
   float: right;
