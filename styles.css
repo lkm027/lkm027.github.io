@@ -46,6 +46,10 @@ body {
   border: 5px solid #cfb53b;
 }
 
+#myPic {
+  float: right;
+}
+
 h2 {
   position: relative;
   font-size: 32pt;
