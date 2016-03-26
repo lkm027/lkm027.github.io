@@ -84,6 +84,17 @@ h2 {
   width: 100%;
 }
 
+h1 {
+  position: relative;
+  font-size: 3.5vw;
+  width: 100%;
+}
+
+p {
+  position: relative;
+  font-size: 1vw;
+}
+
 ul {
   margin-left: -30px;
 }
