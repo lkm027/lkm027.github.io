@@ -33,7 +33,7 @@ body {
 
 #techword {
   position: absolute;
-  float:right;
+  margin: 45%
 }
 
 #name {
