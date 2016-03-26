@@ -40,8 +40,8 @@ body {
   clear:both;
   background-color: white;
   border-radius: 10px;
-  border-color: red;
-  border-width: 2px;
+  border-color: yellow;
+  border-width: 10px;
 }
 
 h2 {
