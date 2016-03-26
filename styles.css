@@ -6,9 +6,9 @@ body {
 
 #header {
  background-color: blue;
- width: 40%;
+ width: 45%;
  height: 100px;
- border-radius: 5px;
+ border-radius: 0px;
  position: fixed;
  display: inline-block;
 }
@@ -22,7 +22,7 @@ body {
 }
 
 #tech {
-  width: 60%;
+  width: 55%;
   height: auto;
   display: inline;
   float: right;
