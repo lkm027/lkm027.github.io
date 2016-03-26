@@ -32,7 +32,8 @@ body {
 }
 
 #techword {
-  position: absolute;;
+  position: absolute;
+  float:right;
 }
 
 #name {
