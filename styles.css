@@ -34,6 +34,10 @@ body {
   float: right;
 }
 
+#name {
+  margin-right: 30px;
+}
+
 h2 {
   position: relative;
   left: 0px;
