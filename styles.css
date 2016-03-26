@@ -39,3 +39,8 @@ h2 {
   left: 0px;
   width: 100%;
 }
+
+li {
+  display: inline;
+  padding: 2px;
+}
