@@ -12,7 +12,7 @@ html,body
 #header {
  background-color: white;
  width: 43vw;
- height: 200px;
+ height: 6vh;
  border-radius: 10px;
  position: fixed;
  display: inline-block;
