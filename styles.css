@@ -39,6 +39,7 @@ html,body
 #techword {
   position: absolute;
   margin-left: 46%;
+  margin-top: 400px;
 }
 
 #name {
@@ -64,6 +65,11 @@ html,body
   position: relative;
   border-radius: 10px;
   margin-top: -90px;
+}
+
+#cthrew {
+  background: rgb(0,0,0);
+  background: rgba(0,0,0,0.7);
 }
 
 h2 {
