@@ -33,6 +33,13 @@ body {
   margin-left: 5px;
 }
 
+#aboutMe {
+  width: 55%;
+  height: 200px;
+  float: right;
+  clear:both;
+}
+
 h2 {
   position: relative;
   font-size: 32pt;
