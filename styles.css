@@ -32,8 +32,8 @@ body {
 }
 
 #techword {
-  position: absolute;
-  margin: 45%;
+  position: relative;
+  margin: 450 px;
 }
 
 #name {
