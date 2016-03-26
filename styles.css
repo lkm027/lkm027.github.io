@@ -5,10 +5,10 @@ body {
 }
 
 #header {
- background-color: blue;
+ background-color: white;
  width: 44.5%;
- height: 100px;
- border-radius: 0px;
+ height: 200px;
+ border-radius: 10px;
  position: fixed;
  display: inline-block;
 }
