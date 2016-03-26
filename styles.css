@@ -33,6 +33,7 @@ body {
 
 #techword {
   position: relative;
+  float: right;
 }
 
 #name {
