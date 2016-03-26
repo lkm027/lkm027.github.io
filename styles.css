@@ -34,10 +34,11 @@ body {
 }
 
 #aboutMe {
-  width: 60%;
+  width: 55%;
   height: 200px;
   float: right;
   clear:both;
+  color: white;
 }
 
 h2 {
