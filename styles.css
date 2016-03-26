@@ -2,7 +2,7 @@ html,body
 {
     width: 100%;
     height: 100%;
-    margin-top: - 400px;
+    margin: 0px;
     padding: 0px;
     overflow-x: hidden;
     font-family: "Helvetica";
@@ -37,7 +37,7 @@ html,body
 }
 
 #techword {
-  position: relative;
+  position:relative;;
   margin-left: 46%;
   margin-top: 400px;
   color: white;
