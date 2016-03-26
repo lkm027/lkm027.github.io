@@ -41,6 +41,7 @@ body {
   background-color: white;
   border-radius: 10px;
   border-color: red;
+  border-width: 2px;
 }
 
 h2 {
