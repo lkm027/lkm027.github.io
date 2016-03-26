@@ -12,7 +12,7 @@ html,body
 #header {
  background-color: white;
  width: 43vw;
- height: 15vh;
+ height: 200px;
  border-radius: 10px;
  position: fixed;
  display: inline-block;
@@ -52,7 +52,7 @@ html,body
 
 #aboutMe {
   margin-top: 10px;
-  width: 54%;
+  width: 54vw;
   height: 200px;
   float: right;
   clear:both;
@@ -80,7 +80,7 @@ html,body
 
 h2 {
   position: relative;
-  font-size: 4vw;
+  font-size: 3.5vw;
   width: 100%;
 }
 
@@ -92,5 +92,5 @@ li {
   display: inline;
   padding-right: 10px;
   text-decoration: none;
-  font-size: 20pt;
+  font-size: 2vw;
 }
