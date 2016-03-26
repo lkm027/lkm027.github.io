@@ -44,14 +44,14 @@ body {
   background-color: white;
   border-radius: 10px;
   border: 5px solid #cfb53b;
-  position: absolute;
+  position: relative;;
 }
 
 #myPic {
   float: right;
   width: 20%;
   height: auto;
-  position: absolute;
+  position: relative;;
 }
 
 h2 {
