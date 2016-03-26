@@ -23,11 +23,12 @@ body {
 }
 
 #tech {
-  width: 55%;
+  width: 54%;
   height: auto;
   display: inline;
   float: right;
   border-radius: 10px;
+  border: 5px solid #cfb53b;
 }
 
 #name {
