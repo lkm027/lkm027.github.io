@@ -64,7 +64,7 @@ html,body
 
 #myPic {
   float: right;
-  width: 22%;
+  width: 22vw;
   height: auto;
   position: relative;
   border-radius: 10px;
@@ -90,7 +90,7 @@ ul {
 
 li {
   display: inline;
-  padding-right: 2vw;
+  padding-right: 1vw;
   text-decoration: none;
   font-size: 2vw;
 }
