@@ -52,6 +52,8 @@ body {
   width: 20%;
   height: auto;
   position: relative;
+  border-radius: 10px;
+  margin-top: 40px;
 }
 
 h2 {
