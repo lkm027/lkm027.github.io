@@ -34,6 +34,7 @@ body {
 #techword {
   position: relative;
   float: right;
+  display: inline;
 }
 
 #name {
