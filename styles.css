@@ -27,6 +27,9 @@ html,body
   position: relative;
 }
 
+#techStuff {
+  position: relative;
+}
 #tech {
   width: 54%;
   height: auto;
@@ -37,7 +40,7 @@ html,body
 }
 
 #techword {
-  position:relative;;
+  position:absolute;
   margin-left: 46%;
   margin-top: 400px;
   color: white;
