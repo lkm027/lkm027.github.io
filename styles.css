@@ -16,7 +16,7 @@ body {
 
 #header2 {
   background-color: black;
-  width: 100%;
+  width: auto;
   height: 3000px;
   border-radius: 5px;
   position: relative;
