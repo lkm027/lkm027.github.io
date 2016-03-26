@@ -41,7 +41,7 @@ html,body
 }
 
 #techword {
-  position: absolute;
+  position: relative;
   margin-left: 46%;
   margin-top: 400px;
   color: white;
