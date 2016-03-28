@@ -119,9 +119,13 @@ li {
 
 table {
   border: 1px solid black;
-  padding: 2px;
+  margin-left: 2px;
 }
 
 td {
-  padding: 2px;
+  margin: 5px;
+}
+
+tr {
+  margin-top: 5px;
 }
