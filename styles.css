@@ -42,8 +42,10 @@ html,body
 #techword {
   position:absolute;
   margin-left: 46%;
-  margin-top: 34%;
+  margin-top: 33%;
   color: white;
+  text-align: center;
+  font-size: 2.5vw;
 }
 
 #name {
