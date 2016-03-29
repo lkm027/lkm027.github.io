@@ -122,7 +122,7 @@ ul {
   margin-left: -30px;
 }
 
-li {
+.top {
   display: inline;
   padding-right: 1vw;
   text-decoration: none;
